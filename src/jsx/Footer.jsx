@@ -30,6 +30,8 @@ function Footer() {
                   <a href="https://youtu.be/VPpMz8m8H-w" target="_blank" rel="noreferrer">Português</a>
                   {', '}
                   <a href="https://youtu.be/-zLJsyCI8zQ" target="_blank" rel="noreferrer">Kiswahili</a>
+                  {', '}
+                  <a href="https://youtu.be/CaQyKwwJP6U" target="_blank" rel="noreferrer">हिंदी</a>
                 </li>
               </ul>
               <ul>
@@ -51,6 +53,8 @@ function Footer() {
                   <a href="https://vimeo.com/882069246" target="_blank" rel="noreferrer">Português</a>
                   {', '}
                   <a href="https://vimeo.com/882069214" target="_blank" rel="noreferrer">Kiswahili</a>
+                  {', '}
+                  <a href="https://vimeo.com/883331980" target="_blank" rel="noreferrer">हिंदी</a>
                 </li>
               </ul>
               <div className="hidden">
