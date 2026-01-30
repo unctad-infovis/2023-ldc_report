@@ -11,7 +11,7 @@ function Footer() {
             <div className="footer_content anchor_videos" id="anchor_videos">
               <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/ej-gfhwhEMU" title="Least Developed Countries Report" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/ej-gfhwhEMU" title="Least Developed Countries Report" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
               </div>
               <ul>
                 <li>
@@ -60,7 +60,7 @@ function Footer() {
               <div className="hidden">
                 <h4>Watch the press conference</h4>
                 <div className="iframe_container youtube_iframe">
-                  <iframe src="https://www.youtube.com/embed/SCk4Og6-uhE" title="Least Developed Countries Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                  <iframe src="https://www.youtube.com/embed/SCk4Og6-uhE" title="Least Developed Countries Report Press Conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
                 </div>
                 <ul>
                   <li>
@@ -72,7 +72,7 @@ function Footer() {
               </div>
               <h4>The 3 ‘As’ of development finance: Rolf Traeger, chief of UNCTAD’s least developed countries section</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/XGn8739VwJg" title="The 3 ‘As’ of development finance: Rolf Traeger, chief of UNCTAD’s least developed countries section" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/XGn8739VwJg" title="The 3 ‘As’ of development finance: Rolf Traeger, chief of UNCTAD’s least developed countries section" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
               </div>
               <ul>
                 <li>
@@ -89,7 +89,7 @@ function Footer() {
               </ul>
               <h4>The difference between climate and development finance: Stefan Csordas, UNCTAD economist</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/3W12bu9VmQA" title="The difference between climate and development finance: Stefan Csordas, UNCTAD economist" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/3W12bu9VmQA" title="The difference between climate and development finance: Stefan Csordas, UNCTAD economist" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
               </div>
               <ul>
                 <li>
@@ -105,7 +105,7 @@ function Footer() {
               <h3>Podcasts</h3>
               <p>Listen to the Weekly Tradecast episodes that explore some of the main issues in the report</p>
               <div className="iframe_container">
-                <iframe title="The Weekly Tradecast by UNCTAD: After years of lost growth, least developed countries need inclusive finance to meet development goals" height="150" width="100%" style={{ border: 'none', minWidth: 'min(100%, 430px)' }} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=c69yp-14ef00a-pb&btn-skin=009EDB&download=1&font-color=000000&fonts=Verdana&from=pb6admin&logo_link=none&rtl=0&share=1&size=240&skin=ffffff" allowFullScreen />
+                <iframe title="The Weekly Tradecast by UNCTAD: After years of lost growth, least developed countries need inclusive finance to meet development goals" height="150" width="100%" style={{ border: 'none', minWidth: 'min(100%, 430px)' }} scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=c69yp-14ef00a-pb&btn-skin=009EDB&download=1&font-color=000000&fonts=Verdana&from=pb6admin&logo_link=none&rtl=0&share=1&size=240&skin=ffffff" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />
                 <span className="text"><a href="/podcast/un-report-after-years-lost-growth-least-developed-countries-need-inclusive-finance-meet">After years of lost growth, least developed countries need inclusive finance to meet development goals</a></span>
               </div>
               <ul className="podcasts_container">
